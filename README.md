@@ -6,33 +6,37 @@
 
 <p align="center">
   <a href="https://github.com/Renan-bsantos">
-    <img src="https://img.shields.io/badge/GitHub-Renan--bsantos-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/renanbnsantos">
-    <img src="https://img.shields.io/badge/LinkedIn-Renan%20Santos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:renannsanto2019@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-renannsanto2019%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+    <img src="https://img.shields.io/badge/E--mail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
   </a>
+</p>
+
+<p align="center">
+  Profissional de infraestrutura e suporte em transição consistente para o desenvolvimento web, unindo base técnica, organização e experiência prática.
 </p>
 
 ## Quem é Renan Santos?
 
-Sou profissional de infraestrutura de TI e suporte N1/N2, com foco em estabilidade, organização e resolução prática de problemas. Ao mesmo tempo, venho ampliando minha atuação em desenvolvimento web, transformando aprendizado técnico em interfaces funcionais, projetos bem estruturados e soluções mais agradáveis de usar.
+Sou profissional de infraestrutura de TI e suporte N1/N2, com foco em estabilidade, organização e resolução prática de problemas. Ao mesmo tempo, venho ampliando minha evolução em desenvolvimento web, transformando aprendizado técnico em interfaces funcionais, projetos bem estruturados e experiências mais agradáveis de usar.
 
-Gosto de trabalhar com uma lógica simples:
+Meu jeito de trabalhar gira em torno de quatro pontos:
 
 - entender o problema com clareza;
-- organizar a solução de forma objetiva;
+- organizar a solução sem complicação desnecessária;
 - melhorar a experiência sem perder consistência técnica;
-- aprender construindo e ajustando com base no uso real.
+- aprender construindo, testando e ajustando com base no uso real.
 
-## Sobre mim
+## Visão profissional
 
 <table>
   <tr>
     <td><strong>Atuação principal</strong></td>
-    <td>Infraestrutura de TI e Suporte N1/N2</td>
+    <td>Infraestrutura de TI e suporte N1/N2</td>
   </tr>
   <tr>
     <td><strong>Foco atual</strong></td>
@@ -40,7 +44,7 @@ Gosto de trabalhar com uma lógica simples:
   </tr>
   <tr>
     <td><strong>Perfil técnico</strong></td>
-    <td>Organização, debugging, componentização, melhoria contínua e experiência do usuário</td>
+    <td>Organização, depuração, componentização, melhoria contínua e experiência do usuário</td>
   </tr>
   <tr>
     <td><strong>O que valorizo</strong></td>
@@ -62,12 +66,12 @@ Gosto de trabalhar com uma lógica simples:
   <img src="https://img.shields.io/badge/Tailwind-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS" />
 </p>
 
-- Construção de interfaces responsivas
-- Componentização de páginas e seções reutilizáveis
-- Estruturação visual com foco em clareza e apresentação
-- Ajustes de usabilidade, layout e conteúdo
+- construção de interfaces responsivas;
+- componentização de páginas e seções reutilizáveis;
+- estruturação visual com foco em clareza e apresentação;
+- ajustes de usabilidade, layout e conteúdo.
 
-### Back-end, dados e tooling
+### Back-end, dados e ferramentas
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
@@ -78,10 +82,10 @@ Gosto de trabalhar com uma lógica simples:
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-- Rotas e estrutura de aplicações com Next.js
-- Organização de dados e integração com Prisma
-- Testes e validação de comportamento
-- Fluxo de versionamento e entrega com Git/GitHub
+- rotas e estrutura de aplicações com Next.js;
+- organização de dados e integração com Prisma;
+- testes e validação de comportamento;
+- fluxo de versionamento e entrega com Git e GitHub.
 
 ### Infraestrutura e suporte
 
@@ -92,10 +96,10 @@ Gosto de trabalhar com uma lógica simples:
   <img src="https://img.shields.io/badge/Documenta%C3%A7%C3%A3o-7c3aed?style=flat-square" alt="Documentação" />
 </p>
 
-- Diagnóstico e resolução de problemas
-- Organização de ambientes e rotinas de suporte
-- Atendimento técnico com foco em continuidade operacional
-- Comunicação mais clara entre necessidade e solução
+- diagnóstico e resolução de problemas;
+- organização de ambientes e rotinas de suporte;
+- atendimento técnico com foco em continuidade operacional;
+- comunicação mais clara entre necessidade e solução.
 
 ## O que você vai encontrar por aqui
 
@@ -111,27 +115,27 @@ Gosto de trabalhar com uma lógica simples:
     <td width="33%">
       <h3>Charge-Ease</h3>
       <p>Plataforma com simulação interativa, conteúdo educacional e interface moderna para apresentar uma proposta de carregamento por indução.</p>
-      <a href="https://github.com/Renan-bsantos/Charge-Ease">Ver repositório</a>
+      <a href="https://github.com/Renan-bsantos/Charge-Ease">Ver projeto</a>
     </td>
     <td width="33%">
-      <h3>my-dev-vault</h3>
+      <h3>My Dev Vault</h3>
       <p>Meu espaço de estudos, experimentos e evolução técnica, reunindo ideias e projetos que mostram meu processo como desenvolvedor.</p>
-      <a href="https://github.com/Renan-bsantos/my-dev-vault">Ver repositório</a>
+      <a href="https://github.com/Renan-bsantos/my-dev-vault">Ver projeto</a>
     </td>
     <td width="33%">
-      <h3>Imers-o-Dev</h3>
+      <h3>Imersão Dev</h3>
       <p>Projeto com proposta visual moderna e base de conhecimento organizada, desenvolvido durante a Imersão Dev.</p>
-      <a href="https://github.com/Renan-bsantos/Imers-o-Dev">Ver repositório</a>
+      <a href="https://github.com/Renan-bsantos/Imers-o-Dev">Ver projeto</a>
     </td>
   </tr>
 </table>
 
 ## Em desenvolvimento agora
 
-- Fortalecendo minha base em React, Next.js e TypeScript
-- Melhorando arquitetura de componentes e organização de projetos
-- Refinando a apresentação técnica dos meus repositórios no GitHub
-- Unindo experiência de suporte com construção de soluções web mais confiáveis
+- fortalecendo minha base em React, Next.js e TypeScript;
+- melhorando arquitetura de componentes e organização de projetos;
+- refinando a apresentação técnica dos meus repositórios no GitHub;
+- unindo experiência de suporte com construção de soluções web mais confiáveis.
 
 ## GitHub em tempo real
 
@@ -144,28 +148,28 @@ Gosto de trabalhar com uma lógica simples:
   <img src="https://streak-stats.demolab.com?user=Renan-bsantos&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
-## Joguinho animado das contribuições
+## Minijogo do perfil
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Renan-bsantos/Renan-bsantos/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Renan-bsantos/Renan-bsantos/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/Renan-bsantos/Renan-bsantos/output/github-snake.svg" />
-  </picture>
+  <img src="./assets/renan-tech-quest.svg" alt="Renan Tech Quest" width="100%" />
+</p>
+
+<p align="center">
+  Uma corrida animada que representa minha evolução entre suporte, infraestrutura e desenvolvimento front-end.
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Renan-bsantos&bg_color=1a1b27&color=c0caf5&line=22c55e&point=7aa2f7&area=true&hide_border=true" alt="Activity graph" />
 </p>
 
-## Vamos conversar?
+## Redes sociais e contato
 
-<p>
-  <a href="mailto:renannsanto2019@gmail.com">renannsanto2019@gmail.com</a><br />
-  <a href="https://www.linkedin.com/in/renanbnsantos">linkedin.com/in/renanbnsantos</a><br />
-  <a href="https://github.com/Renan-bsantos">github.com/Renan-bsantos</a>
+<p align="center">
+  <a href="https://github.com/Renan-bsantos">GitHub</a> |
+  <a href="https://www.linkedin.com/in/renanbnsantos">LinkedIn</a> |
+  <a href="mailto:renannsanto2019@gmail.com">E-mail</a>
 </p>
 
-<p><em>Se não há vento, reme.</em></p>
+<p align="center"><em>Se não há vento, reme.</em></p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:14532d,100:08121f&height=120&section=footer" alt="Footer" />
