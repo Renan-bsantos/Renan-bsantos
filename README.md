@@ -130,11 +130,11 @@
 <h2 align="center">Minijogo do perfil</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Renan-bsantos/Renan-bsantos/main/assets/renan-tech-quest.svg" alt="Charge Arcade" width="92%" />
+  <img src="https://raw.githubusercontent.com/Renan-bsantos/Renan-bsantos/main/assets/charge-run.svg?v=3" alt="Charge Run" width="94%" />
 </p>
 
 <p align="center">
-  Um runner visual que transforma minha jornada técnica em fases: diagnosticar, organizar, construir e entregar.
+  Um runner visual mais limpo e organizado, mostrando a evolução entre suporte, infraestrutura, front-end e entrega.
 </p>
 
 <p align="center">
